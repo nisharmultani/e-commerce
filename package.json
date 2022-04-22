@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nisharmultani/e-commerce/issues"
   },
-  "homepage": "https://github.com/nisharmultani/e-commerce#readme"
+  "homepage": "https://github.com/nisharmultani/e-commerce#readme",
+  "dependencies": {
+    "hasura-cli": "^2.5.0"
+  }
 }
